@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">History</string>
+    <string name="shared_preferences">MySharedPreferences</string>
+    <string name="sp_getHistory">getHistory</string>
+</resources>
